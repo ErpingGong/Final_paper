@@ -1,6 +1,4 @@
-# The Faces of Domestic Violence: An
-Intersectional Analysis of Felony Assaults and
-Rapes in NYC∗
+# The Faces of Domestic Violence: An Intersectional Analysis of Felony Assaults and Rapes in NYC∗
 ## Overview
 This paper presents a statistical analysis of offense classification within the criminal justice system using a multinomial logistic regression model. The research
 examines the influence of victim and suspect demographics—specifically race, sex,
